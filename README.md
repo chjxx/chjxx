@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript language.
 - 🌱 I’m currently learning Three.js
 - 💞️ I’m looking to collaborate on Three.js
-- 📫 chjxxpocket@qq.com
+- 📫 chjxxpocket@gmail.com
 
 <!---
 chjxx/chjxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
